@@ -1,7 +1,7 @@
 /**
 * Template Name: JSR Group
 * Updated: Jan 29 2024 with Bootstrap v5.3.2
-* Template URL: https://weultimate.in.com/JSR Group-bootstrap-business-template/
+* Template URL: https://weultimate.in.com/JSR Group-best products/
 * Author: weultimate.in.com
 * License: https://weultimate.in.com/license/
 */
